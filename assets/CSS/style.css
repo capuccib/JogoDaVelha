@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+
+.quadrado {
+    display: inline-block;
+    padding: 40px;
+    background-color:cadetblue;
+    margin-top: 10px;
+    color: cadetblue;
+    cursor: pointer;
+    font-size: xx-large;
+    width: 50px;
+}
+
+button {
+    cursor: pointer;
+}
